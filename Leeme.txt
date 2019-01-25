@@ -1,0 +1,6 @@
+SADPAME 
+(SISTEMA AUTOMATIZADO PARA EL CONTROL DE PROCESOS ADMINISTRATIVOS DEL MUNICIPIO ESCUQUE)
+Version 0.1 BETA. AÑO DE FABRICACION DEL PRIMER PROTOTIPO: ENERO 2018
+
+Sistema Elaborado Por TSU. Lenin Fernandez (Programador y Analista de Procesos Administrativos) Durante la Gestion del Alcalde Bolivariano Jhony Torres
+
