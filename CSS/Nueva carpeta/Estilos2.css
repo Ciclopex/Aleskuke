@@ -1,0 +1,108 @@
+
+body{
+    background: url("../imagenes/MaketadoFondo1.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+} 
+   .Encabezado{
+        position: fixed;
+    }
+    .Menu{
+       margin-top: 5px;
+    }
+    .M1{
+        color: rgba(20, 20, 20, .1);
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-size: 20px;
+        font-weight: bold;
+        text-align: center;
+        text-decoration:none;
+        text-transform: capitalize;
+        letter-spacing: 2px;
+        text-shadow: 1px 1px 1px rgba(20, 20, 20, 0.5);
+        word-spacing: normal;
+        width: 150px;
+        background:  rgba(119, 112, 112, 0.603);
+        border: 1.5px solid rgba(20, 20, 20, 1);
+        padding: 1px;
+        padding-right: 2px;
+        align-content: center;
+        display: inline-block;
+       text-decoration-line: none;
+    }
+    .M2{
+        color: rgba(20, 20, 20, .1);
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-size: 20px;
+        font-weight: bold;
+        text-align: center;
+        text-decoration:none;
+        text-transform: capitalize;
+        letter-spacing: 2px;
+        text-shadow: 1px 1px 1px rgba(20, 20, 20, 0.5);
+        word-spacing: normal;
+        width: 150px;
+        background:  rgba(119, 112, 112, 0.603);
+        border: 1.5px solid rgba(20, 20, 20, 1);
+        padding: 1px;
+        padding-right: 2px;
+        align-content: center;
+        display: inline-block;
+    }
+    .M3{
+        color: rgba(20, 20, 20, .1);
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-size: 20px;
+        font-weight: bold;
+        text-align: center;
+        text-decoration:none;
+        text-transform: capitalize;
+        letter-spacing: 2px;
+        text-shadow: 1px 1px 1px rgba(20, 20, 20, 0.5);
+        word-spacing: normal;
+        width: 150px;
+        background:  rgba(119, 112, 112, 0.603);
+        border: 1.5px solid rgba(20, 20, 20, 1);
+        padding: 1px;
+        padding-right: 2px;
+        align-content: center;
+        display: inline-block;
+    }
+    .M4{
+        color: rgba(20, 20, 20, .1);
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-size: 20px;
+        font-weight: bold;
+        text-align: center;
+        text-decoration:none;
+        text-transform: capitalize;
+        letter-spacing: 2px;
+        text-shadow: 1px 1px 1px rgba(20, 20, 20, 0.5);
+        word-spacing: normal;
+        width: 150px;
+        background:  rgba(119, 112, 112, 0.603);
+        border: 1.5px solid rgba(20, 20, 20, 1);
+        padding: 1px;
+        padding-right: 2px;
+        align-content: center;
+        display: inline-block;
+    }
+    .M5{
+        color: rgba(20, 20, 20, .1);
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-size: 20px;
+        font-weight: bold;
+        text-align: center;
+        text-decoration:none;
+        text-transform: capitalize;
+        letter-spacing: 2px;
+        text-shadow: 1px 1px 1px rgba(20, 20, 20, 0.5);
+        word-spacing: normal;
+        width: 150px;
+        background:  rgba(119, 112, 112, 0.603);
+        border: 1.5px solid rgba(20, 20, 20, 1);
+        padding: 1px;
+        padding-right: 2px;
+        align-content: center;
+        display: inline-block;
+    }

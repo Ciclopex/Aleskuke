@@ -1,0 +1,102 @@
+body{
+     background:url(../imagenes/MaketadoFondo1.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: 29px 100px;
+    background-size: cover;
+}
+.Menbrete{  
+          position: fixed;
+          top: 0px;
+          bottom: 0px;
+          right: 0px;
+          left: 0px;
+          border: 1px solid rgb(248, 245, 245);
+
+}
+.MenuPadre{
+    position: relative;
+    width: 930px;
+    height: 30px;
+    border: 2pxsolid rgb(26, 1, 248);
+    background: rgba(20, 20, 20, 0.1);
+    margin:0px 0px;
+    padding:0px;
+    top: 94px;
+    left: 0px;
+}
+.Menu{
+    position: absolute;
+    top: 5px;
+    bottom: 0px;
+    right: 0px;
+    left: auto;
+}
+ ul a{
+    width: 70px;
+    background: rgba(55,0, 255, 0.523);
+    margin: 0px 6px;
+    padding:center;
+    border: 2px solid rgba(55, 0, 255, 0.432);
+    display: inline-block;
+ }    
+.main{
+    //*position: fixed*/;
+    top: 145px;
+    bottom: 0px;
+    right:  0px;
+    left: 10px;
+}
+.Noticias{
+    position: fixed;
+    top: 135px;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+}
+.CajaPadre{
+    width: 20%;
+    height: 300px;
+    border: 2px solid rgba(20,20,20, 0.568);
+    background: rgba(190, 142, 7, 0.493);
+    position: relative;
+    top: 128px;
+    bottom: 0px;
+    right: 0px;
+    left: 650px;
+}
+.Diviciones{
+    position: absolute;
+    top: 10px;
+    bottom: 0px;
+    right: 0px;
+    left: 20px;
+}
+
+
+
+li a{
+    width: 80px;
+    height: 100px;
+    background: rgba(11, 14, 238, 0.288);
+    color: rgba(20,20,20,0568);
+    font-size: 30px;
+    border: 2px solid rgba(25, 2, 238, 0.952);
+    float: left;
+}
+div{
+    border-image: 2px;
+}
+//
+li{
+    width: 80%;
+}
+h2 {
+    width:50%;
+    //*height: 8px;*/;
+    background: rgba(3, 3, 3, 0.473);
+    color: rgba(72, 42, 180, 0.76);
+    margin: 1px;
+    padding: 3px;
+    border: 3px solid rgba(55, 0, 255, 0.432)
+}
