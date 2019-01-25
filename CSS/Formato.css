@@ -1,0 +1,83 @@
+* {
+  font-size: 100%;
+  font-family: Arial;
+  color: white;
+  text-decoration: none;
+}
+h1 {
+  font-size: 1.5em;
+}
+/** Franja Azul del INICIO*/
+#wraper {
+  width: 100%;
+  font-size: 0.7em;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.6);
+  padding: 8px 0;
+}
+#wraper:hover {
+  background-color: rgba(53, 8, 216, 0.5);
+}
+body {
+  margin: 0;
+  background-image: url(../imagenes/iglesia-noche.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  
+}
+.img-header {
+  background-image: url(../imagenes/iglesia-noche-desenfoque.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 25px;
+  margin: 100px auto;
+  max-width: 600px;
+  box-shadow: 1px 1px 5px 3px rgba(249, 248, 250, 0.527);
+}
+.logo{
+  position: absolute;
+  width: 150px;
+  height: 100px;
+  background-image: url(../imagenes/logo.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+h2 {
+  font-size: 3em;
+  text-align: center;
+}
+h1 {
+  font-size: 1.5em;
+  text-align: center;
+  color: rgba(243, 242, 248, 0.884);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+@font-face{
+  font-family: Reckoner;
+  src: url(../Fuentes/EASportsCoversSC1.5.ttf);
+}
+
+.botton {
+  height: 3em;
+  padding: 1.5em 0em 0em 0em ;
+  
+  font-family: Reckoner;
+  color: rgba(37, 8, 199, 0.568);
+  text-align: center;
+  font-size: 1.5em;
+  background-color: rgba(255, 255, 255, 0.13);
+  background-size: 5em;
+  border-radius: 1%;
+ /**box-shadow: 1px 1px 5px 3px rgba(249, 248, 250, 0.527);*/
+}
+.botton:hover {
+  box-shadow: 1px 1px 5px 3px rgba(6, 197, 245, 0.493);
+  background-color: rgba(44, 16, 201, 0.445);
+  color: rgba(243, 242, 248, 0.5)
+}
+#default{cursor: default;}
+.botton{cursor: pointer;}

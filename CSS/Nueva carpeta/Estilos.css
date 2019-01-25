@@ -1,0 +1,59 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #bcbcbc;
+}
+div.ImagenPrincipal{
+    position: fixed;
+    width: 10%;
+    top:0px;
+    left: 50px;
+}
+img{
+    
+    height: 130px;
+}
+div#menu{
+   position: absolute;
+   width: 5%;
+   height: 100%;
+   background-color:#2f3030;
+   overflow: hidden;
+   -webkit-trasition: width 70px;
+}
+div#menu:hover{
+    width: 15%;
+}
+
+div#logo-principal{
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+    background-image: url(../Imagenes/Menu.png);
+    background-size: cover;
+
+}
+
+div.contenedor-general{
+    width: 150px;
+    height: 40px;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+div#contenedor-general-Primero{
+    margin-top: 70px;
+}
+
+div.logo-interior{
+    width: 40px;
+    height: 40px;
+    background-image: url(../Imagenes/Menu.png);
+    background-size: cover;
+    float: left;
+}
+p.Texto{
+    margin-left: 60px;
+    line-height: 40px;
+    text-transform: capitalize;
+}
